@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1047c94-8d03-457e-ae42-48241432ac23" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/yas/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/yas/SumaConFunciones.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/yas/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/yas/SumaDeDosNumerosEnteros.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +38,33 @@
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Test">
+  <component name="RunManager" selected="Application.SumaConFunciones">
+    <configuration name="Operadores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yas.Operadores" />
+      <module name="YasProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumaConFunciones" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yas.SumaConFunciones" />
+      <module name="YasProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SumaDeDosNumerosEnteros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.yas.SumaDeDosNumerosEnteros" />
       <module name="YasProject" />
@@ -53,22 +78,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yas.Test" />
-      <module name="YasProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.yas.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.SumaConFunciones" />
+        <item itemvalue="Application.Operadores" />
         <item itemvalue="Application.SumaDeDosNumerosEnteros" />
       </list>
     </recent_temporary>
@@ -82,7 +95,7 @@
       <option name="presentableId" value="Default" />
       <updated>1696802707123</updated>
       <workItem from="1696802708562" duration="11690000" />
-      <workItem from="1697324639251" duration="11098000" />
+      <workItem from="1697324639251" duration="16528000" />
     </task>
     <servers />
   </component>
