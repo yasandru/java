@@ -1,9 +1,8 @@
 package com.yas;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
-public class Main {
+public class SumaDeDosNumerosEnteros {
     public static void main(String[] args) {
         //1. tenés que leer elingreso del teclado
 Scanner variableNum = new Scanner(System.in);
