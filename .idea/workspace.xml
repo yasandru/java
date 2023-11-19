@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1047c94-8d03-457e-ae42-48241432ac23" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/yas/EjCentinela.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/yas/EjercicioCondicional.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/yas/EjercicioInmigrante.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/yas/Repetitivas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/yas/numerosLimite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/yas/ternaryoperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/yas/Matrices.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/yas/Repetitivas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/yas/Repetitivas.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +41,7 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.EjCentinela">
+  <component name="RunManager" selected="Application.Matrices">
     <configuration name="EjCentinela" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.yas.EjCentinela" />
       <module name="YasProject" />
@@ -72,8 +68,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Repetitivas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yas.Repetitivas" />
+    <configuration name="Matrices" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yas.Matrices" />
       <module name="YasProject" />
       <extension name="coverage">
         <pattern>
@@ -85,8 +81,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumaConFunciones" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yas.SumaConFunciones" />
+    <configuration name="Repetitivas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yas.Repetitivas" />
       <module name="YasProject" />
       <extension name="coverage">
         <pattern>
@@ -126,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Matrices" />
+        <item itemvalue="Application.Repetitivas" />
         <item itemvalue="Application.EjCentinela" />
         <item itemvalue="Application.numerosLimite" />
-        <item itemvalue="Application.Repetitivas" />
         <item itemvalue="Application.ternaryoperator" />
-        <item itemvalue="Application.SumaConFunciones" />
       </list>
     </recent_temporary>
   </component>
@@ -144,7 +140,7 @@
       <updated>1696802707123</updated>
       <workItem from="1696802708562" duration="11690000" />
       <workItem from="1697324639251" duration="17343000" />
-      <workItem from="1700183538513" duration="17441000" />
+      <workItem from="1700183538513" duration="24473000" />
     </task>
     <servers />
   </component>
