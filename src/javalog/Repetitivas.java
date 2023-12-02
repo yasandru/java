@@ -1,4 +1,4 @@
-package com.yas;
+package javalog;
 
 import java.util.Scanner;
 

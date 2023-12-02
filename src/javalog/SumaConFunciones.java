@@ -1,4 +1,4 @@
-package com.yas;
+package javalog;
 
 //Crear una funcion que acepte dos valores ingresados por teclado y retorne la suma
 
